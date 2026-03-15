@@ -15,7 +15,8 @@ Uygulama hem **iOS** hem de **Android** için isimlendirme özelleştirmeleri ya
 ---
 
 ## 🚀 Kullanılan Flutter Sürümü
-Flutter 3.x.x  
+Flutter 3.41.4 • channel stable  
+Dart 3.11.1 • DevTools 2.54.1
 
 ---
 
